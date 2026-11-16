@@ -1,0 +1,11 @@
+Package: tennisage
+Title: Plot Tennis Players' Career Ages from Tennis Abstract
+Version: 0.1.0
+Authors@R: person("Zacharia", "Makari", email = "zacharia.makari@berkeley.edu", role = c("aut", "cre"))
+Description: Downloads a tennis player's career matches from tennisabstract.com
+    and plots the player's age against the age difference with each opponent.
+License: GPL-3
+Encoding: UTF-8
+Imports: jsonlite, ggplot2
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
