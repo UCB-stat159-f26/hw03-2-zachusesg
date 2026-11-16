@@ -1,0 +1,13 @@
+AI tool: Claude (Anthropic), Claude Opus 5.5, via claude.ai, November 2026.
+
+- Helped guide me in troubleshooting tennisabstract.com to find where player birth dates are stored; I ideated commands and checked the results.
+- identified additional areas for tests to check; I ran, tested, and checked each step against real players.
+- Created a README skeleton outline which I wrote into and edited.
+
+Prompts and outputs:
+- "Can you help lightly guide me in where I should be looking for palyer birthdates as I'm lost"
+  -> Pointed me in the direciton of discovery for wplayer.cgi for women and player.cgi for men.
+- "what are avennues I should check with the tests section"
+  -> Helped ideate avenues for test checks
+- "what's a good readme outline for me to write my work into"
+  -> Created README outline
